@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'module3-angular-login-form';
+  title = 'angular-native-form-login';
 }
